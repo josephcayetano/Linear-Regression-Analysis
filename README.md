@@ -1,4 +1,6 @@
 # D600-Task-1-Linear-Regression-Analysis
+### Overview
+This project focuses on predicting housing prices using multiple linear regression. By analyzing property and neighborhood characteristics, the project builds and optimizes a regression model to identify key factors affecting house prices. The model is implemented in Python (pandas, statsmodels), and performance is evaluated through statistical metrics and visualization.
 
 ### Multiple Linear Regression – Housing Price Prediction
 -	Built and optimized a multiple linear regression model to predict housing prices using property and neighborhood features (e.g., SquareFootage, CrimeRate, RenovationQuality).
