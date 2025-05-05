@@ -5,7 +5,7 @@
 -	Achieved an R² of ~0.60, identifying key price drivers; applied backward stepwise elimination to improve model simplicity and performance.
 -	Utilized Python (pandas, statsmodels) and visualized results with Seaborn and Matplotlib.
 
-
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D600_Task1_Final.ipynb - A Jupyter Notebook file that contains the code for linear regression analysis.
