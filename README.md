@@ -1,5 +1,11 @@
 # D600-Task-1-Linear-Regression-Analysis
 
+### Multiple Linear Regression – Housing Price Prediction
+-	Built and optimized a multiple linear regression model to predict housing prices using property and neighborhood features (e.g., SquareFootage, CrimeRate, RenovationQuality).
+-	Achieved an R² of ~0.60, identifying key price drivers; applied backward stepwise elimination to improve model simplicity and performance.
+-	Utilized Python (pandas, statsmodels) and visualized results with Seaborn and Matplotlib.
+
+
 1. README.md - A file describing other files in this repository.
 
 2. D600_Task1_Final.ipynb - A Jupyter Notebook file that contains the code for linear regression analysis.
