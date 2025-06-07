@@ -1,11 +1,11 @@
 # Linear Regression Analysis
 ### Overview
-This project focuses on predicting housing prices using multiple linear regression. By analyzing property and neighborhood characteristics, the project builds and optimizes a regression model to identify key factors affecting house prices. The model is implemented in Python (pandas, statsmodels), and performance is evaluated through statistical metrics and visualization.
+This project used multiple linear regression to predict housing prices. By analyzing property and neighborhood features, I built and improved a model that shows which factors affect price the most. I used Python with pandas and statsmodels, and evaluated the model using visualizations and key statistics.
 
 ### Multiple Linear Regression – Housing Price Prediction
--	Built and optimized a multiple linear regression model to predict housing prices using property and neighborhood features (e.g., SquareFootage, CrimeRate, RenovationQuality).
--	Achieved an R² of ~0.60, identifying key price drivers; applied backward stepwise elimination to improve model simplicity and performance.
--	Utilized Python (pandas, statsmodels) and visualized results with Seaborn and Matplotlib.
+-	Created a regression model to predict home prices using features like square footage, crime rate, and renovation quality.
+-	Improved model performance using backward stepwise elimination, achieving an R² of around 0.60.
+-	Used Python (pandas, statsmodels) and visualized results with Seaborn and Matplotlib.
 
 ### Files
 1. README.md - A file describing other files in this repository.
